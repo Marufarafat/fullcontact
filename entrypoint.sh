@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 
-python /fullcontact.py $@
+python /app.py $@
